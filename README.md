@@ -60,6 +60,5 @@ Soy un desarrollador Full Stack especializado en la creación de aplicaciones we
 </tr>
 </table>
 <div align="center">
-  <img src="./assets/this-is-fine-dog.mp4" width="350" alt="This is fine" />
+  <img src="./assets/this-is-fine-dog.gif" width="350" alt="This is fine" />
 </div>
-
